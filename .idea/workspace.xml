@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5eb028af-3e97-4d6c-a345-9f5174199f77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/arrow-down-red.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/arrow-up-green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/blue-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/decrement.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/destination.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/filter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/increment.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/itinerary-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/itinerary.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/loader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/location-mark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/magic-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/refresh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/users.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/auth-img.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/card-img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/card-img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/card-img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/card-img-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/card-img-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/card-img-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/david.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/james.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/michael.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/readme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/sample.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/sample1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/sample2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/sample3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/sample4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0014385576029032" />
+      <entry key="MS500" value="1.6049329830166663" />
+      <entry key="S2" value="5.058765244115229" />
+      <entry key="S5" value="10.266606587042359" />
+      <entry key="S10" value="15.086912861839242" />
+      <entry key="S30" value="20.81257111421609" />
+      <entry key="S60" value="22.766327749641043" />
+      <entry key="M2" value="23.99247541027091" />
+      <entry key="M5" value="30.997050074964324" />
+      <entry key="M10" value="49.552505571639884" />
+      <entry key="M15" value="64.07522362380669" />
+      <entry key="M30" value="87.3755526244227" />
+      <entry key="H1" value="103.93140434163296" />
+      <entry key="H2" value="113.82975261742087" />
+      <entry key="H4" value="119.24588281418728" />
+      <entry key="D1" value="124.01660732941829" />
+      <entry key="W1" value="124.85890630826145" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="9.439705176864504E-157" />
+      <entry key="S5" value="3.964881161817214E-63" />
+      <entry key="S10" value="7.442802041782231E-32" />
+      <entry key="S30" value="7.595612766591977E-11" />
+      <entry key="S60" value="1.4904779434944731E-5" />
+      <entry key="M2" value="0.006938033073353858" />
+      <entry key="M5" value="0.2988421986730325" />
+      <entry key="M10" value="1.080304551799798" />
+      <entry key="M15" value="1.6663566366754305" />
+      <entry key="M30" value="2.57774881684006" />
+      <entry key="H1" value="3.209785339817244" />
+      <entry key="H2" value="3.5828091545066023" />
+      <entry key="H4" value="3.7855646083463363" />
+      <entry key="D1" value="3.963421041243138" />
+      <entry key="W1" value="3.9947534856943885" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.013168692720455713" />
+      <entry key="MS500" value="1.0136267076233" />
+      <entry key="S2" value="4.852814794681215" />
+      <entry key="S5" value="10.165395491044334" />
+      <entry key="S10" value="15.025765614776937" />
+      <entry key="S30" value="20.78764022363608" />
+      <entry key="S60" value="22.753077973244874" />
+      <entry key="M2" value="23.992495478734533" />
+      <entry key="M5" value="31.2917483754031" />
+      <entry key="M10" value="50.628659083651854" />
+      <entry key="M15" value="65.73768933190748" />
+      <entry key="M30" value="89.95043846980057" />
+      <entry key="H1" value="107.1394283404236" />
+      <entry key="H2" value="117.41158192690081" />
+      <entry key="H4" value="123.03093029033535" />
+      <entry key="D1" value="127.97993818055608" />
+      <entry key="W1" value="128.85364680863958" />
+    </decayedShown>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FXhHJIqRo2b2djErrJMdRt4HFK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/haris/OneDrive/Desktop/travel-agency&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\haris\\OneDrive\\Desktop\\travel-agency\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haris\OneDrive\Desktop\travel-agency" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eb028af-3e97-4d6c-a345-9f5174199f77" name="Changes" comment="" />
+      <created>1782227235636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782227235636</updated>
+      <workItem from="1782227237760" duration="2971000" />
+      <workItem from="1782231311595" duration="1846000" />
+      <workItem from="1782272148538" duration="1107000" />
+      <workItem from="1782273272111" duration="1286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
